@@ -1,0 +1,34 @@
+.col-1 .card {
+    background-image: url('./managing\ ads\ with\ gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.col-2 .card {
+    background-image: url('./data\ analysis\ with\ gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.col-3 .card {
+    background-image: url('./presentation\ with\ gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #hero img {
+    border-radius: 50%;
+  }
+
+
+  .project-image {
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+  }
+
+  .project-image img {
+    width: auto;
+    height: 200px;
+  }
